@@ -1,0 +1,19 @@
+{
+  "name": "x2js",
+  "version": "1.1.7",
+  "description": "mirror of x2js (https://code.google.com/p/x2js/)",
+  "main": "xml2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adba/x2js.git"
+  },
+  "author": "",
+  "license": "Apache License, Version 2.0",
+  "bugs": {
+    "url": "https://github.com/adba/x2js/issues"
+  },
+  "homepage": "https://github.com/adba/x2js"
+}
